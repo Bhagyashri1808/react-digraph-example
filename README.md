@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###
+1. Three different shape nodes to be displayed --done
+2. should be able to edit the title of nodes---done
+3. should be able to move the nodes -- done
+4. should be able to draw edges between the nodes --done
+5. should be able to label the edges.--done
+6. should be able to select the shape of a ndoe---done
+7. should be able to filter the nodes based on title -- optionl
+
+
+style={{fill:"blue",stroke:"pink","stroke-width":5,opacity:0.5}} 
